@@ -1,6 +1,9 @@
 # ---> PNG
 *.png
 
+
+# ---> PDF
+*.pdf
 # ---> Linux
 *~
 
