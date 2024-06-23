@@ -2,7 +2,8 @@
 ===========
 ## Zugtrupp OV Friedrichshafen
 
-Patch für den [Zugtrupp des THW OV Friedrichshafen](https://ov-friedrichshafen.thw.de/unser-thw-ortsverband/technischer-zug/zugtrupp). Dem Kompetenzzentrum im THW OV FN. Rufzeichen: ``Heros Friedrichshafen 21/10``.
+Patch für den [Zugtrupp des THW OV Friedrichshafen](https://ov-friedrichshafen.thw.de/unser-thw-ortsverband/technischer-zug/zugtrupp). Dem Kompetenzzentrum im THW OV FN.<br/>
+Rufzeichen Zugtrupp: ``Heros Friedrichshafen 21/10``.
 
 ![kompetenzzentrum.svg](kompetenzzentrum.svg)
 
